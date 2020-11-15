@@ -18,7 +18,7 @@ My rendition of a pong game -don't get distracted by the changing colors
 
 
 ## Deployed Site
-[ClickClick!](https:/rksouth.github.io/OldSchoolPong/)
+[ClickClick!](https://rksouth.github.io/OldSchoolPong//)
 
 ## Features 
 
